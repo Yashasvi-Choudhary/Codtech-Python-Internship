@@ -1,12 +1,13 @@
 # Task 2: Automated Report Generation
 
 ## 👨‍💻 Internship Information
-Name: Yashasvi Choudhary
-Company: CODTECH IT SOLUTION
-Intern ID: CT04DY141
-Domain: Python Programming
-Duration: July 29th, 2025 to August 29th, 2025.
-Mentor: Neela Santhosh Kumar
+
+- Name: Yashasvi Choudhary
+- Company: CODTECH IT SOLUTION
+- Intern ID: CT04DY141
+- Domain: Python Programming
+- Duration: July 29th, 2025 to August 29th, 2025.
+- Mentor: Neela Santhosh Kumar
 
 ## 📌 Objective
 The aim of this task is to **automate the generation of a PDF report** using Python.  
@@ -64,5 +65,5 @@ Total Recovered: 1,293,358
 
 ✅ Deliverables
  Python script (Notebook)
-
  Generated PDF Report
+
