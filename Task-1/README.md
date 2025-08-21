@@ -64,12 +64,9 @@ Bengaluru
 🌡️ Bar Chart → City vs Temperature
 💧 Line Chart → City vs Humidity
 
-## Learning Outcomes
+## 🌦️ Weather Data Visualization
 
-Making API requests in Python
-Parsing JSON responses
-Using Pandas for tabular data
-Creating bar and line plots with Matplotlib
+Here is an example chart generated using the Weather API:
 
-
+![Weather Visualization](weather_visualization.png)
 
