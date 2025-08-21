@@ -62,8 +62,8 @@ Total Confirmed Cases: 3,044,906
 Total Deaths: 97,975
 Total Recovered: 1,293,358
 
+## 🖼️ Report Preview
 
-✅ Deliverables
- Python script (Notebook)
- Generated PDF Report
+![COVID Report Preview](covid_report_preview.png)
+
 
